@@ -9,14 +9,14 @@
 ![img](figs/overview.png)
 
 
-## Plan
-<input type="checkbox" checked> **2025.08.20**: ***[UniGen](https://arxiv.org/pdf/2508.17364) paper uploaded to arXiv.***
+## ✅ TODO
+- [x] **2025.08.20**: ***[UniGen](https://arxiv.org/pdf/2508.17364) paper uploaded to arXiv.***
 
-<input type="checkbox"> **2025.09.01**: ***UniGen training and inference code open to public.*** 
+- [ ] **2025.09.01**: ***UniGen training and inference code open to public.*** 
 
-<input type="checkbox"> ***Upload checkpoints to Hugging face.*** 
+- [ ] ***Upload checkpoints to Hugging face.*** 
 
-<input type="checkbox"> ***Upload UniGen training code.*** 
+- [ ] ***Upload UniGen training code.*** 
 
 ## Instruction
 ### Environment Preparation
