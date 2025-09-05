@@ -12,9 +12,9 @@
 ## ✅ TODO
 - [x] **2025.08.20**: ***[UniGen](https://arxiv.org/pdf/2508.17364) paper uploaded to arXiv.***
 
-- [ ] **2025.09.01**: ***UniGen training and inference code open to public.*** 
+- [ ] **2025.09.01**: ***upload UniGen inference code.*** 
 
-- [ ] ***Upload checkpoints to Hugging face.*** 
+- [x] **2025.09.05**: ***Upload checkpoints to [Hugging face](https://huggingface.co/gavin-zhang/UniGen).*** 
 
 - [ ] ***Upload UniGen training code.*** 
 
