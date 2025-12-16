@@ -2,7 +2,7 @@
 
 
 > **[Condition Weaving Meets Expert Modulation: Towards Universal and Controllable Image Generation](https://arxiv.org/pdf/2508.17364)** \
-> Guoqing Zhang <sup>1,3</sup>, Xingtong Ge<sup>2,3</sup>, Lu Shi <sup>1</sup>, Xin Zhang<sup>3</sup>, Muqing Xue<sup>1</sup>, Wanru Xu <sup>1</sup>, Yigang Cen <sup>1</sup> \
+> Guoqing Zhang <sup>1,3</sup>, Xingtong Ge<sup>2,3</sup>, Lu Shi <sup>1</sup>, Xin Zhang<sup>3</sup>, Muqing Xue<sup>1</sup>, Wanru Xu <sup>1*</sup>, Yigang Cen <sup>1*</sup>, Yidong Li <sup>1</sup> \
 > <sup>1</sup> Bejing Jiaotong University <sup>2</sup> Hong Kong University of Science and Technology  <sup>3</sup> SenseTime Research \
 > This work was done by Guoqing Zhang during internship at SenseTime Research Institute.
 
@@ -17,9 +17,11 @@
 
 <img src='figs/overview.png' width='100%' />
 
+<p align="center">[Fig. 1] The overall model architecture diagram supports up to twelve conditions for generating tasks, and also supports multi-condition joint control for generating tasks. </p>
+
 <img src='figs/motivation.png' width='100%' />
 
-
+<p align="center">[Fig. 2] Starting with visual token features, we fully explore the consistency between visual token representations for unified visual representation fusion and alignment. </p>
 
 ## ✅ TODO
 - [x] **2025/08**: ***[UniGen](https://arxiv.org/pdf/2508.17364) paper uploaded to arXiv.***
@@ -28,7 +30,7 @@
 
 - [x] **2025/09**: ***Upload checkpoints to [Hugging face](https://huggingface.co/gavin-zhang/UniGen).*** 
 
-- [x] **2025/10 **: ***Upload UniGen training code.*** 
+- [x] **2025/10**: ***Upload UniGen training code.*** 
 
 ## 🔧 Dependencies and Installation
 
