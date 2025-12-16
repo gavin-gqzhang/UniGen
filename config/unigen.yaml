@@ -1,0 +1,12 @@
+params:
+  control_params:
+    use_transformer_params: True 
+    use_pooled_prompt_embeds: True 
+    use_encoder_hidden_states: True
+    extra_conditioning_channels: 0 # for sd3
+    
+    expert_num_each_condition: 3 # default:3, how many expert module for each condition
+    use_shared_expert: True
+    use_consis_module: False
+    use_modulate: False
+    

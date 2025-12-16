@@ -1,0 +1,12 @@
+compute_environment: LOCAL_MACHINE
+deepspeed_config:
+  deepspeed_config_file: ./config/ds_zero3.json
+  zero3_init_flag: false
+distributed_type: DEEPSPEED
+main_training_function: main
+# rdzv_backend: static
+same_network: true
+tpu_env: []
+tpu_use_cluster: false
+tpu_use_sudo: false
+use_cpu: false
